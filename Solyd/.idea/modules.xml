@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Doc/.idea/Doc.iml" filepath="$PROJECT_DIR$/../Doc/.idea/Doc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pyzumbis/.idea/Pyzumbis.iml" filepath="$PROJECT_DIR$/../Pyzumbis/.idea/Pyzumbis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Solyd.iml" filepath="$PROJECT_DIR$/.idea/Solyd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Wiki_Python/.idea/Wiki_Python.iml" filepath="$PROJECT_DIR$/../Wiki_Python/.idea/Wiki_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../aula_Flask/.idea/aula_Flask.iml" filepath="$PROJECT_DIR$/../aula_Flask/.idea/aula_Flask.iml" />
       <module fileurl="file://$PROJECT_DIR$/../banco/.idea/banco.iml" filepath="$PROJECT_DIR$/../banco/.idea/banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ignorancia/.idea/ignorancia.iml" filepath="$PROJECT_DIR$/../ignorancia/.idea/ignorancia.iml" />
     </modules>
   </component>
 </project>

@@ -5,6 +5,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="banco" />
+    <orderEntry type="module" module-name="ignorancia" />
+    <orderEntry type="module" module-name="Wiki_Python" />
+    <orderEntry type="module" module-name="Doc" />
+    <orderEntry type="module" module-name="aula_Flask" />
+    <orderEntry type="module" module-name="Pyzumbis" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
