@@ -10,6 +10,8 @@
     <orderEntry type="module" module-name="Doc" />
     <orderEntry type="module" module-name="aula_Flask" />
     <orderEntry type="module" module-name="Pyzumbis" />
+    <orderEntry type="module" module-name="livro" />
+    <orderEntry type="module" module-name="book" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

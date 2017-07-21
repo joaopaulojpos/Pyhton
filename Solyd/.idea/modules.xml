@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/../Wiki_Python/.idea/Wiki_Python.iml" filepath="$PROJECT_DIR$/../Wiki_Python/.idea/Wiki_Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/../aula_Flask/.idea/aula_Flask.iml" filepath="$PROJECT_DIR$/../aula_Flask/.idea/aula_Flask.iml" />
       <module fileurl="file://$PROJECT_DIR$/../banco/.idea/banco.iml" filepath="$PROJECT_DIR$/../banco/.idea/banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../book/.idea/book.iml" filepath="$PROJECT_DIR$/../book/.idea/book.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ignorancia/.idea/ignorancia.iml" filepath="$PROJECT_DIR$/../ignorancia/.idea/ignorancia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../livro/.idea/livro.iml" filepath="$PROJECT_DIR$/../livro/.idea/livro.iml" />
     </modules>
   </component>
 </project>
